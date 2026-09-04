@@ -1,0 +1,3 @@
+class Swim {
+  void fly(){}
+}
