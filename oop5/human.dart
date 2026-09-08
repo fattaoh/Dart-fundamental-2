@@ -6,7 +6,7 @@ class Human implements Swim {
   Human(this.name);
 
   @override
-  void fly() {
+  void swim() {
     print('$name is swimming');
   }
 }

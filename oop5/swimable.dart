@@ -1,3 +1,3 @@
 class Swim {
-  void fly(){}
+  void swim(){}
 }
